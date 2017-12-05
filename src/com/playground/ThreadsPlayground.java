@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.concurrent.*;
 
 /**
- * My Java 8 Multithreading Playground
+ * Java 8 Multithreading Playground
  */
 public class ThreadsPlayground {
 

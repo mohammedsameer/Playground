@@ -1,8 +1,7 @@
 package com.playground;
 
 /**
- * My Java 8 LambdaPlayground
- * Lamda expressions
+ * Java 8 LambdaPlayground
  */
 public class LamdaPlayground {
 
