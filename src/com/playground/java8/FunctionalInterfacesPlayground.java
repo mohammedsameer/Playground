@@ -1,4 +1,4 @@
-package com.playground;
+package com.playground.java8;
 
 import java.util.Comparator;
 import java.util.Optional;

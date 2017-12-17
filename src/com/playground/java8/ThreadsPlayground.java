@@ -1,4 +1,4 @@
-package com.playground;
+package com.playground.java8;
 
 import java.util.ArrayList;
 import java.util.Arrays;

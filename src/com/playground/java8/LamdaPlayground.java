@@ -1,4 +1,4 @@
-package com.playground;
+package com.playground.java8;
 
 /**
  * Java 8 LambdaPlayground
