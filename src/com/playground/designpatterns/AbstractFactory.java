@@ -99,7 +99,7 @@ public class AbstractFactory {
             return toy;
         }
     }
-    
+
     //Demo
     public static void main(String[] args) {
         Toy toy = ToyFactory.getToy("Rainbow", Type.INFANT);

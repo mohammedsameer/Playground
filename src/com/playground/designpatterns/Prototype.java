@@ -39,12 +39,10 @@ public class Prototype {
     }
 
     public static void main(String[] args) {
-        Samrah samrah = new Samrah();
-        samrah.clone();
+        Person samrah = new Samrah();
         samrah.clone();
 
-        Sameer sameer = new Sameer();
-        sameer.clone();
+        Person sameer = new Sameer();
         sameer.clone();
     }
 }

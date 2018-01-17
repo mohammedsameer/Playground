@@ -36,7 +36,7 @@ public class FactoryMethod {
     //Plan factory responsible for plan creation
     static class PlanFactory {
         public static Plan getPlan(String name) {
-            if(name.equals("Domesitc"))
+            if(name.equals("Domestic"))
                 return new DomesticPlan();
             else
                 return new InternationalPlan();
